@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @T3chieJack
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Python and Html
+- 🌱 I’m currently learning Python and Html and swift
 - 💞️ I’m looking to collaborate on Apps
 - 💻 https://t3chiejack.github.io/AboutMe/
 <!---
