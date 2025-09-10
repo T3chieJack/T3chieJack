@@ -14,17 +14,12 @@ document.getElementById('year').textContent = new Date().getFullYear();
 // --- Project data (edit here or fetch a JSON) ---
 const projects = [
   {
-    title: "Project One",
-    description: "Short one-liner describing what it does.",
-    url: "https://github.com/yourusername/project-one",
-    tags: ["JavaScript","API"]
+    title: "README Crafter",
+    description: "Generate polished GitHub README.md files in your browser.",
+    url: "https://handyrepos.github.io/readme-crafter/",
+    tags: ["JavaScript", "GitHub Pages", "Open Source"]
   },
-  {
-    title: "Project Two",
-    description: "A neat tool with a small, focused scope.",
-    url: "https://github.com/yourusername/project-two",
-    tags: ["TypeScript","Web"]
-  },
+  https://thecreatorslist.github.io/Creators/,
   {
     title: "Project Three",
     description: "An open-source experiment worth a look.",
