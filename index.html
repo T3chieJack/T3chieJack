@@ -1,1 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Your Name — Portfolio</title>
+  <meta name="description" content="Developer portfolio of Your Name." />
+  <meta property="og:title" content="Your Name — Portfolio" />
+  <meta property="og:description" content="Developer portfolio of Your Name." />
+  <meta property="og:image" content="assets/avatar.png" />
+  <meta name="theme-color" content="#0b0d10" />
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+  <link rel="preload" as="image" href="assets/avatar.png" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header container">
+    <a class="brand" href="#top">Your Name</a>
+    <nav class="nav">
+      <a href="#projects">Projects</a>
+      <a href="#about">About</a>
+      <a href="#contact">Contact</a>
+      <button id="themeToggle" aria-label="Toggle theme">🌗</button>
+    </nav>
+  </header>
 
+  <main id="top">
+    <!-- HERO -->
+    <section class="hero container">
+      <div class="hero-text">
+        <h1>Hi, I’m <span class="accent">Your Name</span>.</h1>
+        <p class="subtitle">I build fast, delightful web experiences.</p>
+        <div class="cta">
+          <a class="btn" href="#projects">See projects</a>
+          <a class="btn ghost" href="mailto:you@example.com">Contact me</a>
+        </div>
+        <ul class="social">
+          <li><a href="https://github.com/yourusername" target="_blank" rel="noreferrer">GitHub</a></li>
+          <li><a href="https://www.linkedin.com/in/yourhandle" target="_blank" rel="noreferrer">LinkedIn</a></li>
+          <li><a href="https://x.com/yourhandle" target="_blank" rel="noreferrer">X / Twitter</a></li>
+        </ul>
+      </div>
+      <div class="hero-media">
+        <img src="assets/avatar.png" alt="Your avatar" />
+      </div>
+    </section>
+
+    <!-- PROJECTS -->
+    <section id="projects" class="container section">
+      <h2>Projects</h2>
+      <p class="muted">A few things I’ve shipped recently.</p>
+      <div id="projectGrid" class="grid"></div>
+    </section>
+
+    <!-- ABOUT -->
+    <section id="about" class="container section">
+      <h2>About</h2>
+      <div class="about">
+        <p>
+          I’m a developer focused on performant, accessible apps with clean UI.
+          My interests include web platforms, open-source tools, and creative automation.
+        </p>
+        <ul class="badges">
+          <li>JavaScript</li><li>TypeScript</li><li>React</li><li>Node.js</li><li>Python</li>
+        </ul>
+        <div class="resume">
+          <a class="btn" href="#" aria-disabled="true" title="Add your resume link">Download Resume</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- CONTACT -->
+    <section id="contact" class="container section">
+      <h2>Contact</h2>
+      <p>Want to collaborate or just say hi?</p>
+      <div class="contact-cards">
+        <a class="card" href="mailto:you@example.com">
+          <h3>Email</h3><p>you@example.com</p>
+        </a>
+        <a class="card" href="https://github.com/yourusername" target="_blank" rel="noreferrer">
+          <h3>GitHub</h3><p>@yourusername</p>
+        </a>
+        <a class="card" href="https://www.linkedin.com/in/yourhandle" target="_blank" rel="noreferrer">
+          <h3>LinkedIn</h3><p>/in/yourhandle</p>
+        </a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="container site-footer">
+    <p>© <span id="year"></span> Your Name • <a href="https://github.com/yourusername/yourusername.github.io">Source</a></p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
