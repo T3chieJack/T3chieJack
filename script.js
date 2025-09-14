@@ -21,10 +21,11 @@ const projects = [
   },
   https://thecreatorslist.github.io/Creators/,
   {
-    title: "Project Three",
-    description: "An open-source experiment worth a look.",
-    url: "https://github.com/yourusername/project-three",
-    tags: ["Python","CLI"]
+    title: "OpenEditor",
+    description: "A Chrome extension that turns any website into an editable canvas.
+Type directly on pages, replace images, reset changes, and export your edits as HTML — all locally, on demand.",
+    url: "https://github.com/HandyRepos/OpenEditor/",
+    tags: ["HTML","JavaScript","JSON"]
   }
 ];
 
