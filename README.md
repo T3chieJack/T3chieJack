@@ -16,3 +16,8 @@ I like Coding 🥺.
 ## Projects
 - **[README Crafter](https://handyrepos.github.io/readme-crafter/)** — Generate beautiful GitHub READMEs (profile or project) in seconds. Zero-build, zero-login. Open source.
 - **[Creators Hub](https://thecreatorslist.github.io/Creators/)** — One place For All The Channels.
+
+-  **[OpenEditor](https://github.com/HandyRepos/OpenEditor)** — A Chrome extension that turns any website into an editable canvas.
+Type directly on pages, replace images, reset changes, and export your edits as HTML — all locally, on demand.
+
+
