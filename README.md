@@ -20,4 +20,7 @@ I like Coding 🥺.
 -  **[OpenEditor](https://github.com/HandyRepos/OpenEditor)** — A Chrome extension that turns any website into an editable canvas.
 Type directly on pages, replace images, reset changes, and export your edits as HTML — all locally, on demand.
 
+-  **[PiSpeed](https://github.com/T3chieJack/PiSpeed/)** — A lightweight, self-hosted internet speed monitor for Raspberry Pi.
+It runs periodic speed tests, stores results in a local SQLite database, and serves a simple web dashboard on your LAN.
+
 
