@@ -4,7 +4,7 @@ I like Coding 🥺.
 
 ## 🌐 Portfolio
 Check out my portfolio here:  
-👉 [t3chiejack.github.io/Jack](https://t3chiejack.github.io/Jack/)
+👉 [Portfolio](https://t3chiejack.github.io/Jack/)
 
 
 ## About Me
