@@ -28,4 +28,6 @@ Type directly on pages, replace images, reset changes, and export your edits as 
 -  **[PiSpeed](https://github.com/T3chieJack/PiSpeed/)** — A lightweight, self-hosted internet speed monitor for Raspberry Pi.
 It runs periodic speed tests, stores results in a local SQLite database, and serves a simple web dashboard on your LAN.
 
+-  **[PythonEngine](https://github.com/T3chieJack/PythonEngine)** — A lightweight in-browser Python runtime powered by Pyodide. Write, run, and test Python code instantly — no install, no backend, just pure web Python.
+
 
