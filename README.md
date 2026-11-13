@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm TechieJack!</h1>
 
 <p align="center">
-  I build self-hosted tools, Flipper Zero apps and homelab projects.
+  Making fun things, following my passion for technology, and figuring things out.
 </p>
 
 <p align="center">
